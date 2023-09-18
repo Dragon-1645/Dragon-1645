@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dragon
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on Hacking
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Coding
+- 💞️ I’m looking to collaborate onCoding
 
 
 <!---
